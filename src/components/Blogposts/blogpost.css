@@ -1,0 +1,35 @@
+.blogs{
+width: 50%;
+height: auto;
+display:grid;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: inherit;
+margin: 0;
+padding: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+	width: 50%;
+  box-sizing: border-box;
+  background: #E28C9F;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  
+} 
+.blog__content {
+	margin-left: 20px;
+}
+.blog___title {
+	margin-top: 30px;
+	font-size: 16px;
+}
+.blog__summary {
+	margin-top: 7px;
+	color: #6d6d74;
+	font-size: 15px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}

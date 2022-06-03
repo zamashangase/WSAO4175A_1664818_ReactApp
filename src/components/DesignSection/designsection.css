@@ -1,0 +1,17 @@
+.designsection{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: inherit;
+}
+body{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+  background: #E28C9F;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+}
