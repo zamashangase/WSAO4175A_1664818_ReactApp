@@ -1,7 +1,8 @@
 import React from 'react';
 import './designsection.css';
 import { Link } from 'react-router-dom';
-import './Styles/designsection.css'
+
+import './designsection.css';
 import './assets/Wireframe1.png';
 import './assets/Wireframe2.png';
 import './assets/Wireframe3.png';

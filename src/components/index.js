@@ -4,8 +4,8 @@ import Pagetitle from "./Pagetitle";
 import Blogposts from "./Blogposts";
 import Designsection from "./DesignSection";
 import Internetart from "./InternetArt";
-import Homepage from "./homepage";
-
+import Homepage from "./Homepage";
+import Footer from "./Footer";
 
 export{
     Header,
@@ -15,5 +15,6 @@ export{
     Internetart,
     Designsection,
     Blogposts,
+    Footer,
     
 }
