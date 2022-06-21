@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/WSAO4175A_1664818_ReactApp/static/css/main.1c01b5ae.css",
-    "main.js": "/WSAO4175A_1664818_ReactApp/static/js/main.f0a1967a.js",
+    "main.css": "/WSAO4175A_1664818_ReactApp/static/css/main.76fd4b17.css",
+    "main.js": "/WSAO4175A_1664818_ReactApp/static/js/main.d9e21585.js",
+    "static/media/homepagewireframe.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/homepagewireframe.5cfdfe686f0b4270ddda.jpeg",
     "static/media/homepageImage.png": "/WSAO4175A_1664818_ReactApp/static/media/homepageImage.507ae29f43f01414dabe.png",
+    "static/media/internetartbyZama.png": "/WSAO4175A_1664818_ReactApp/static/media/internetartbyZama.6e08b2ed23aa3868c4cd.png",
+    "static/media/technicalReflect.jpg": "/WSAO4175A_1664818_ReactApp/static/media/technicalReflect.9b021107ff21efab6e74.jpg",
+    "static/media/blogpageBackground.jpg": "/WSAO4175A_1664818_ReactApp/static/media/blogpageBackground.8934dde18ba3023aba06.jpg",
+    "static/media/aura.jpg": "/WSAO4175A_1664818_ReactApp/static/media/aura.b27003cd61fbe9511078.jpg",
     "index.html": "/WSAO4175A_1664818_ReactApp/index.html",
-    "main.1c01b5ae.css.map": "/WSAO4175A_1664818_ReactApp/static/css/main.1c01b5ae.css.map",
-    "main.f0a1967a.js.map": "/WSAO4175A_1664818_ReactApp/static/js/main.f0a1967a.js.map"
+    "main.76fd4b17.css.map": "/WSAO4175A_1664818_ReactApp/static/css/main.76fd4b17.css.map",
+    "main.d9e21585.js.map": "/WSAO4175A_1664818_ReactApp/static/js/main.d9e21585.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c01b5ae.css",
-    "static/js/main.f0a1967a.js"
+    "static/css/main.76fd4b17.css",
+    "static/js/main.d9e21585.js"
   ]
 }
