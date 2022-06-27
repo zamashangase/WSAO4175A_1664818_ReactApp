@@ -5,6 +5,8 @@ import aura from '../DesignSection/aura.jpg'
 import Cards from '../Cards';
 import designReflect from '../DesignSection/designReflect.jpg'
 import technicalReflect from '../DesignSection/technicalReflect.jpg'
+import Gallery from '../DesignSection/Gallery';
+
 
 export default class designers extends Component{
   
@@ -14,31 +16,13 @@ export default class designers extends Component{
  <h2>Original Wireframes:</h2>         
 
 <Cards/>
-<h3>Homepage Wireframe:</h3>
-
-<h3>Blogposts Wireframe2:</h3>
-
-<h3>Design Section Wireframe3:</h3>
-
-<h3>Internet Art Section Wireframe4:</h3>
-
-<h3>Wireframe5:</h3>
-
-
-<h2>New Wireframes:</h2>
-
-<h3>Homepage Wireframe 1:</h3>
-
-<h3>Blogposts Wireframe 2:</h3>
-
-<h3>Design Section Wireframe 3:</h3>
-
-<h3>Internet Art Section Wireframe 4:</h3>
 </section>
-<section>
-<h3>Original Style Guide:</h3>
 
-<h3>Final Style Guide:</h3>
+
+<section>
+  <Gallery/>
+
+
 
 <h3>Reference Material:</h3>
 
@@ -56,23 +40,18 @@ and viewers are able to see the links clearly and the colour does not conflict w
 Lastly the colour purple which is seen when selecting different links in the header have a different colour psychological view 
 on the website as the professionalism of this colour shows luxury, ambition and confidence.
 </p>
+<h3>Final Reference Material:</h3>
 <p>
-  The homepage has been replaced with the internet artwork that I created because the internet artwork is a part of the creative component of the
-  website and it compliments the website being an artwork piece itself. Unlike the first website for Assignment 1 the navbar and header has been changed to 
-  different colour to compliment the shades and visual representation of the internet artwork which is a sea of colours.
-  there is a techincal issue where there is a box showing that the internet artwork is on the Home Page but it is not visual reflecting and showing
-  right now it is a bit difficult to make the artwork interactive. My wireframes are in the assets folder of the app and it has been imported but for some 
-  reason it is not showing but it is available in the assets folder. This is also the same problem with final style guide.
-  The style guide is the same because the some of the colours are still on the colour scheme and therefore can be still available.
-  Also the colour theme of the artwork is based on auras and the final style guide can be seen as a part of the artwork throughout
-  the website using the waves and circles of pink. I also like how the background image of the style guide also has circles just like aura patterns.
-  This fills in nicely with the internet artwork aura theme being seen throughout the website.
-  The reference material in the preparatory work were used for layouts and app designs but it's har implementing them right now so my app layout is simple for now 
-  so the blogposts information is easily readable and the design section is also accesible as well as the homepage and internet artwork section.
-  The reference material also inspired the header and semantic markups of all the pages as the titles are seen on the header and the page continues 
-  from there and the space for the navbar looks like a corner navbar.
+  My final reference material is on the internet art section of my website and it is apart of the source inspiration.
+  I feel like since it is a part of the internet art colour inspo and I didnt want the section to be really long 
+  because of the images. These colours were chosen because they stem from inspiration for different internet art.
+  The use of gradient inspired aura colours is to show that aura internet artwork and also spiritually people have different
+  auras steming from them or a person because it is the same energy they give. I could not find the original line net art From
+  my preparatory work but I found source inspo similar to it. I incorporated gradient aura images for different blog posts so the blog
+  posts do not clash together and look squashed and it is more easier for readers to know they are reading a different blog post
+  with also incorporating the theme of aura internet art.
 </p>
-<h4>Reference Material Image:</h4>
+
           </section>
           <section className='Design-Text'style={{ backgroundImage: `url(${designReflect})`}}>
   <h2>New Design Reflection:</h2>
@@ -110,12 +89,68 @@ much and also to incorporate the my internet artwork being incorporated into the
     Also I did not want to use any other colour besides these colours to avoid the font colours conflicting with the images 
     and colour scheme of the website.
   </p>
+  <h4>Reflection:</h4>
+  <p>
+    According to Danae, an article by Marie Chatel. Rhizome had launched an exhibition called
+    "The Art Happens Here". This exhibition has showcased sixteen different artists and contains
+    over 100 pieces that was organized and restored over the years.  (Danae & Chatel, 2019)Rhizome made this website so 
+    it can be a network media that is present. In my opinion, Rhizome's exhibition is like an
+    internet gallery that provides the selected artists a given platform to display their artworks. (Danae & Chatel, 2019)
+     Olia Lialina who is a 1990s artist was concerned about artistic languages and incporating it 
+     into the internet. She curated content into the internet that was available online. (Danae & Chatel, 2019). The word 
+     content is the information that contains media. This includes the internet, television,visual art and other technology.
+
+  </p>
+  <p>
+    The content in the website is the images of different aura internet artworks that is found on the internet and placed 
+    in a website that can also be a platform or exhibition for internet artworks to be displayed.
+    This is like an art gallery on the internet with information and a form of communication.
+  </p>
+  <p>
+    This research and reading inspired the incorporation of adding the aura internet arts I have hand picked
+    from different artists and incorported in different parts of the website so the viewers can see different 
+    net art. The footer was added because the website looked unfinished but while incorporating this. The website
+    and the foter contains business related purposes to be seem professional and have information. This is incorporated
+    through the design.
+  </p>
+  <p>
+    While researching for design and aesthetics for this project I came across a website on ux design.
+    According to the website, there is this effect called the Halo Effect that also applies to products and 
+    websites. The Halo Effect is when people tend to assume that attractive looking people have other qualities
+    besides their looks. This applies to aesthetic designs and websites. This researched was applied to my websites
+    by displaying different internet artworks as the "product" and it is a part of the design aesthetics as it is 
+    used as background images when discussing different topics.
+
+  </p>
   </section>
   <section className='Design-Text'style={{ backgroundImage: `url(${technicalReflect})`}}>
   <h2>New Technical Reflection:</h2>
   <p>
     For my technical reflection since the first assignment up till now I have been 
-    working and getting used to the techincal part of the React app. 
+    working and getting used to the technical part of the React app. 
+  </p>
+  <h3>Reflection and Research:</h3>
+  <p>
+    The theory of two works of art being visual representation in net art can be seen
+    in different formats. The technical component for the website allows the viewer
+    to have access to read and view the website in different screens. For example, the
+    technical component of responsive design on html and CSS. I am saying this because with 
+    this technical compontent can be viewed on computers and mobile phone screens. This technical
+    component can also be used in React.
+  </p>
+  <p>
+    According to Daniolou, the internet has an important role towards business that's why when developing
+    a website it is best to add a footer with contact and content information. Using the technical components
+    of javascript and JSX index I managed to create a footer with information and email subscription on the website
+    to keep viewers updated. It helps advertise businesses on the internet and promote internet artwork in my website.
+  </p>
+  <p>
+    Danilou's article on The Need for Global Internet Connectivity mainly focuses on the internet access in rural areas.
+    With React if there is no internet on unpublished React website then the viewer can not view the website until the internet
+    connection is available again. From my experience, bad wifi has caused the access to the React App to be limited or unreachable.
+    Once the website is deployed and published then the viewers with internet access can see the developed website.
+    From my experience, I had to use command prompt to have access to my React website when my laptop lost internet connection.
+    Although the difference between my experience and reading is the area codes and locations.
   </p>
   </section>
           </div>
