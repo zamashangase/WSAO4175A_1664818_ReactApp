@@ -1,19 +1,40 @@
 {
   "files": {
-    "main.css": "/WSAO4175A_1664818_ReactApp/static/css/main.76fd4b17.css",
-    "main.js": "/WSAO4175A_1664818_ReactApp/static/js/main.d9e21585.js",
+    "main.css": "/WSAO4175A_1664818_ReactApp/static/css/main.66d2ef3e.css",
+    "main.js": "/WSAO4175A_1664818_ReactApp/static/js/main.69a8c574.js",
+    "static/media/originalDesignSection.png": "/WSAO4175A_1664818_ReactApp/static/media/originalDesignSection.82ae3bec32ed3cac1b7d.png",
+    "static/media/originalInternetSection.png": "/WSAO4175A_1664818_ReactApp/static/media/originalInternetSection.4984d8eda0ef9d63120c.png",
+    "static/media/originalHomepage.png": "/WSAO4175A_1664818_ReactApp/static/media/originalHomepage.6dbe4547939ef9fa1a53.png",
+    "static/media/finalDesignSection.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/finalDesignSection.9c0abb428aa2597885f2.jpeg",
+    "static/media/finalHomepagewireframe.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/finalHomepagewireframe.3b20b128768ce5abb3b1.jpeg",
+    "static/media/finalBlogSection.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/finalBlogSection.051c57a32cf315c03d4e.jpeg",
     "static/media/homepagewireframe.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/homepagewireframe.5cfdfe686f0b4270ddda.jpeg",
+    "static/media/finalInternetArtSection.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/finalInternetArtSection.6b53c7bdaa6caf995f15.jpeg",
+    "static/media/internetSection2.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/internetSection2.52edc4b7da6f0e903cd5.jpeg",
+    "static/media/designWireframe2.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/designWireframe2.4b56230f46fdb07298ef.jpeg",
+    "static/media/blogwireframe1.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/blogwireframe1.503ae5898dcb12b04af1.jpeg",
+    "static/media/designWireframe.jpeg": "/WSAO4175A_1664818_ReactApp/static/media/designWireframe.f64af93e9a4529c65a12.jpeg",
     "static/media/homepageImage.png": "/WSAO4175A_1664818_ReactApp/static/media/homepageImage.507ae29f43f01414dabe.png",
+    "static/media/ReferenceMaterial.png": "/WSAO4175A_1664818_ReactApp/static/media/ReferenceMaterial.f865849c2bc32812cbc4.png",
     "static/media/internetartbyZama.png": "/WSAO4175A_1664818_ReactApp/static/media/internetartbyZama.6e08b2ed23aa3868c4cd.png",
+    "static/media/FinalInternetArtbyZama.png": "/WSAO4175A_1664818_ReactApp/static/media/FinalInternetArtbyZama.d37be4e451a101e41ff5.png",
+    "static/media/SecondStyleGuide.png": "/WSAO4175A_1664818_ReactApp/static/media/SecondStyleGuide.1c79ddbe9bad31f71b85.png",
     "static/media/technicalReflect.jpg": "/WSAO4175A_1664818_ReactApp/static/media/technicalReflect.9b021107ff21efab6e74.jpg",
+    "static/media/websiteInspo2.jpg": "/WSAO4175A_1664818_ReactApp/static/media/websiteInspo2.496abd4479ebc853402f.jpg",
+    "static/media/weekFourpage.jpg": "/WSAO4175A_1664818_ReactApp/static/media/weekFourpage.2b492bd4e71f0eb840b2.jpg",
+    "static/media/weekSixpage.jpg": "/WSAO4175A_1664818_ReactApp/static/media/weekSixpage.91c061289fe00e900d5c.jpg",
+    "static/media/internetArtinspo2.jpg": "/WSAO4175A_1664818_ReactApp/static/media/internetArtinspo2.e7acf813a7f9f8fbcdda.jpg",
+    "static/media/WSOA4175A_StyleGuide.png": "/WSAO4175A_1664818_ReactApp/static/media/WSOA4175A_StyleGuide.3f45da503a5973484354.png",
     "static/media/blogpageBackground.jpg": "/WSAO4175A_1664818_ReactApp/static/media/blogpageBackground.8934dde18ba3023aba06.jpg",
+    "static/media/websiteInspo.jpg": "/WSAO4175A_1664818_ReactApp/static/media/websiteInspo.7b79d093199a829d9419.jpg",
     "static/media/aura.jpg": "/WSAO4175A_1664818_ReactApp/static/media/aura.b27003cd61fbe9511078.jpg",
+    "static/media/websiteInspo3.jpg": "/WSAO4175A_1664818_ReactApp/static/media/websiteInspo3.a15512cc3535d10e9ec8.jpg",
     "index.html": "/WSAO4175A_1664818_ReactApp/index.html",
-    "main.76fd4b17.css.map": "/WSAO4175A_1664818_ReactApp/static/css/main.76fd4b17.css.map",
-    "main.d9e21585.js.map": "/WSAO4175A_1664818_ReactApp/static/js/main.d9e21585.js.map"
+    "main.66d2ef3e.css.map": "/WSAO4175A_1664818_ReactApp/static/css/main.66d2ef3e.css.map",
+    "main.69a8c574.js.map": "/WSAO4175A_1664818_ReactApp/static/js/main.69a8c574.js.map"
   },
   "entrypoints": [
-    "static/css/main.76fd4b17.css",
-    "static/js/main.d9e21585.js"
+    "static/css/main.66d2ef3e.css",
+    "static/js/main.69a8c574.js"
   ]
 }
